@@ -1,0 +1,23 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+P
+ src/test/java/Help/BaseTest.java,c\c\cca098dcb65c2fc3b3232e4227b3ed45dda5f65b
+U
+%src/test/java/Help/HelperMethods.java,2\b\2b3cc9cbeaa6869bad09040bb3cbb82ba2fe9732
+\
+,src/test/java/Pages/PersonalAccountPage.java,b\c\bc341521b409c295c86308b23b189e4f35ed6ab4
+]
+-src/test/java/Tests/EditPersonalDataTest.java,9\e\9e6592b3fa0af098fe883154047c8abec8a05692
+Q
+!src/test/java/Pages/HomePage.java,6\d\6d9a977ecbd321e42ddf3649686693274557fa4c
+U
+%src/test/java/Pages/RegisterPage.java,9\1\913dc109e0a55cfd7a1a9212cfc1555ee7b6cdb0
+R
+"src/test/java/Pages/LoginPage.java,e\6\e627fde0ad7d9865967b84a5845a26e820727a66
+Y
+)src/test/java/Tests/RegistrationTest.java,6\e\6e483b7892115ffce321becc4f613e3684d1b681
+R
+"src/test/java/Tests/LoginTest.java,4\9\497617085dde3d0b1e3212a271ba7719039228f0
+Y
+)src/test/java/Pages/PersonalDataPage.java,e\5\e513bf6bd76022bf60c49724e8e2c90f8f793e84
